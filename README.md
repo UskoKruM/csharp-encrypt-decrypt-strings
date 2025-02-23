@@ -1,6 +1,6 @@
 # Encriptación/Desencriptación de textos en C# y .NET | AES, CryptoStream, CryptoTransform
 
-Aprende a encriptar/desencriptar cadenas de textos (strings) utilizando C# y .NET, específicamente las clases AES y CryptoStream. Conoce cómo codificar (encriptar) textos (como password o valores sensibles) utilizando funcionalidades nativas de C#.
+Aprende a encriptar/desencriptar cadenas de textos (strings) utilizando C# y .NET, específicamente las clases: AES y CryptoStream. Conoce cómo codificar (encriptar) textos (como password o valores sensibles) utilizando funcionalidades nativas de C#.
 
 <hr/>
 
